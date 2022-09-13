@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210798700285",
+    "project_id": "my-app-almo",
+    "storage_bucket": "my-app-almo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210798700285:android:c23d3ab391b498d772c094",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210798700285-jm2c01fjr5v38f7qit3svj7m6c6n6qr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiz1_H-pr74s0KWclUEZy7zzc3mbLiQP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210798700285-jm2c01fjr5v38f7qit3svj7m6c6n6qr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
